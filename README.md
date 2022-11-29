@@ -10,11 +10,11 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dan-Dias&theme=gruvebox)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dan-Dias&repo=Dan-Dias.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dan-Dias&repo=Dan-Dias.github.io)](https://dan-dias.github.io/)
 
 - Contato
 
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/daniel-dias-811ba3229
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/daniel-dias-811ba322
 
 
 <!---
